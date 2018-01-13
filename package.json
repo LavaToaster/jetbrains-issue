@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@storybook/react": "^3.3.8",
+    "@types/node": "^9.3.0",
+    "@types/storybook__react": "^3.0.6"
+  }
+}
